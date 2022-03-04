@@ -14,22 +14,24 @@
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 - <img src="https://badgen.net/badge/icon/git?icon=git&label">
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedebrito&theme=blue-green">
+</div>
+
 ### Onde me encontrar
 <div>
   <a href="https://www.instagram.com/_caiquedebrito" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
   </a>
-  <a href="https://www.instagram.com/_caiquedebrito" target="_blank">
+  <a href="https://www.linkedin.com/in/caique-de-brito-ba0a07219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
-  <a href="https://www.instagram.com/_caiquedebrito" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" >
   </a>
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedebrito&theme=blue-green">
-</div>
+
 
 
 
