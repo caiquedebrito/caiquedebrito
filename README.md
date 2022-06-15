@@ -1,6 +1,8 @@
 
 <h1 align="center">🚧CAIQUE DE BRITO🚧<br><sub>Web Developer</sub></h1>
 
+<br>
+<h2 align="center">Links</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/caiquedebrito">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -23,8 +25,6 @@
   <img src="https://user-images.githubusercontent.com/88737351/173234330-714d4e68-f8bf-471a-a7dc-921b3dc56e7d.gif"/>
 </div>
  -->
-<br>
-<br>
 
 <h2 align="center">Techs</h2>
 
