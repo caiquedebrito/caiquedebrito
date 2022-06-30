@@ -1,6 +1,8 @@
+<div align="center">
 
-<h1 align="center">🚧CAIQUE DE BRITO🚧<br><sub>Web Developer</sub></h1>
+  ![Caique de Brito (Logotipo)](https://user-images.githubusercontent.com/88737351/176686001-f31bf768-8e88-43a8-bfaa-69e6e3b6cfda.gif)
 
+</div>
 
 <br>
 <h2 align="center">Links</h2>
