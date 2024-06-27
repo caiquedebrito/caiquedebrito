@@ -1,3 +1,4 @@
+<!--
 # 👩‍💻 [CAIQUE DE BRITO FREITAS]
 
 **Estudante de Sistemas de Informação | Desenvolvedor Web em formação | Apaixonado por Tecnologia | Explorando o Mundo do Desenvolvimento**
@@ -16,7 +17,7 @@
 ## 🌐 Projetos:
 1. **[Nome do Projeto]** - Desenvolvi um sistema simples de gerenciamento de tarefas utilizando Java. [Link do Repositório no GitHub]
 2. **[Nome do Projeto 2]** - Colaborei em um projeto de site responsivo usando HTML e CSS. [Link do Repositório no GitHub]
--->
+
 
 ## 📚 Cursos e Certificações:
 - Google UX Design (PT) pela Google no Coursera [Coursera]
