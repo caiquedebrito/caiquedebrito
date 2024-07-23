@@ -12,3 +12,7 @@
 - Banco de Dados: SQL, MySQL, MongoDB
 - Ferramentas: Git, GitHub, Figma
 - Outras: UX/UI Design
+
+## Conecte-se comigo
+
+- Linkedin [/caiquedebrito](https://www.linkedin.com/in/caiquedebrito)
