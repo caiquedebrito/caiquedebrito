@@ -2,6 +2,8 @@
 
 **Estudante de Sistemas de Informação | Desenvolvedor Web em formação | Apaixonado por Tecnologia | Explorando o Mundo do Desenvolvimento**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquedebrito&layout=donut-vertical)
+
 ## 🎓 Educação:
 - **[IFBA]**, Sistemas de Informação (em andamento)
 
