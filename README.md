@@ -58,7 +58,3 @@ Currently, I work on the development and maintenance of scalable systems, perfor
 - Strong background in **database modeling**, **query optimization**, and **legacy code refactoring**.
 - Development of **responsive web interfaces** and **mobile applications**.
 - Experience with **Docker**, **CI/CD**, **AWS**, **DigitalOcean**, and agile environments using **Scrum/Kanban**.
-
-## Contact me
-
-- LinkedIn: [linkedin.com/in/caiquedebrito](https://www.linkedin.com/in/caiquedebrito)
